@@ -1,0 +1,10 @@
+C:\Users\Project\source\repos\Quiz Drill\Quiz Drill\bin\Debug\Quiz Drill.exe.config
+C:\Users\Project\source\repos\Quiz Drill\Quiz Drill\bin\Debug\Quiz Drill.exe
+C:\Users\Project\source\repos\Quiz Drill\Quiz Drill\bin\Debug\Quiz Drill.pdb
+C:\Users\Project\source\repos\Quiz Drill\Quiz Drill\obj\Debug\Quiz Drill.csproj.AssemblyReference.cache
+C:\Users\Project\source\repos\Quiz Drill\Quiz Drill\obj\Debug\Quiz_Drill.Form1.resources
+C:\Users\Project\source\repos\Quiz Drill\Quiz Drill\obj\Debug\Quiz_Drill.Properties.Resources.resources
+C:\Users\Project\source\repos\Quiz Drill\Quiz Drill\obj\Debug\Quiz Drill.csproj.GenerateResource.cache
+C:\Users\Project\source\repos\Quiz Drill\Quiz Drill\obj\Debug\Quiz Drill.csproj.CoreCompileInputs.cache
+C:\Users\Project\source\repos\Quiz Drill\Quiz Drill\obj\Debug\Quiz Drill.exe
+C:\Users\Project\source\repos\Quiz Drill\Quiz Drill\obj\Debug\Quiz Drill.pdb
